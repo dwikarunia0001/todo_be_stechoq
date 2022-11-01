@@ -14,7 +14,7 @@ class _user {
             console.log('listUser user module Error: ', error)
 
             return {
-                status: false;
+                status: false,
                 error
             }
         }
